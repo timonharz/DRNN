@@ -1,4 +1,4 @@
- Dynamic Reproducing Neural Network (DRNN)
+# Dynamic Reproducing Neural Network (DRNN)
 
 ## Overview
 
