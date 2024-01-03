@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Dynamic Reproducing Neural Network (DRNN) project is dedicated to the exploration and development of a groundbreaking neural network architecture. Unlike traditional networks, the DRNN possesses the unique ability to dynamically modify its structure through neuron reproduction. This research initiative delves into the implementation of DRNN from the ground up, leveraging Python and the NumPy library to facilitate a comprehensive understanding of its capabilities.
+The Dynamic Reproducing Neural Network (DRNN) project is dedicated to the exploration and development of a new, more human brain orientated neural network architecture. Unlike traditional networks, the DRNN possesses the unique ability to dynamically modify its structure through neuron reproduction. This research initiative delves into the implementation of DRNN from the ground up, leveraging Python and the NumPy library to facilitate a comprehensive understanding of its capabilities.
 
 ## Features
 
