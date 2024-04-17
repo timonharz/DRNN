@@ -17,11 +17,11 @@ Follow these steps to get started with the DRNN project:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/DRNN.git
-
+```
 	2.	Install Dependencies:
-
+```bash
 pip install numpy
-
+```
 
 	3.	Explore the Code:
 Dive into the Python codebase to understand the DRNN implementation and its unique architecture.
